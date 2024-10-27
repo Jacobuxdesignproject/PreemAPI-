@@ -20,9 +20,7 @@ Back-end Exploration: Get familiar with APIs, databases, and Python-based framew
 Personal Brand: Build meaningful connections in the tech space, grow my network, and share my learning journey.
 
 🚀 Fun Facts About Me
-
 I’m using coding games to sharpen my problem-solving and typing skills (Typing of the Dead, anyone?).
-I plan to give back by helping others avoid falling for snake-oil "tech gurus" and sharing practical advice on building their own path.
 You might catch me learning guitar between coding sessions—life’s all about balance! 🎸
 
 ## 🌐 Socials:
